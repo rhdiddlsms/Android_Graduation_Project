@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    학과명-->
+    <string-array name="major">
+        <item>정보통신공학과</item>
+        <item>무선정보통신공학과정</item>
+        <item>네트워크정보통신공학과정</item>
+    </string-array>
+
+
+    <string-array name="year">
+<!--        <item>2016학년도</item>-->
+<!--        <item>2017학년도</item>-->
+<!--        <item>2018학년도</item>-->
+<!--        <item>2019년</item>-->
+        <item>2021</item>
+        <item>2022</item>
+
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>2학기</item>
+    </string-array>
+
+<!--   학사 -> 선택지 -->
+    <string-array name="graduateArea">
+        <item>전공심화</item>
+<!--        <item>프로젝트</item>-->
+    </string-array>
+
+<!--    전문학사-> 선택지-->
+    <string-array name="universityArea">
+        <item>전공</item>
+        <item>교양</item>
+    </string-array>
+
+<!--    학사 -> 전공심화 -> 학과 정보-->
+    <string-array name="graduateMajor">
+        <item>정보통신공학과</item>
+    </string-array>
+
+
+<!--    전문학사 -> 전공심화 -> 교양-->
+    <string-array name="universityRefinementMajor">
+        <item>대화의기법</item>
+        <item>영화와음악</item>
+        <item>웰니스와미래건강</item>
+        <item>싱글라이프의건강노하우</item>
+    </string-array>
+
+<!--    전문학사 -> 전공 -> 학과정보-->
+    <string-array name="universityMajor">
+        <item>정보통신공학과</item>
+        <item>무선정보통신공학과정</item>
+        <item>네트워크정보통신공학과정</item>
+    </string-array>
+
+
+<!-- 선호도에 대한 array-->
+    <string-array name="rank">
+        <item>전체에서</item>
+        <item>우리과에서</item>
+        <item>남자 선호도</item>
+        <item>여자 선호도</item>
+        <item>전공 인기도</item>
+        <item>교양 인기도</item>
+    </string-array>
+</resources>

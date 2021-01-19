@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projectapp</string>
+    <string name="main_back_end">press again to exit</string>
+    <string name="main_list_phone_error">has no phone number</string>
+    <string name="add_name_null">name is Empty</string>
+    <string name="read_add_score_dialog_message">Do you add for {1} grade?</string>
+    <string name="permission_error">has no permission</string>
+    <string name="go_read_activity">go read activity</string>
+</resources>
